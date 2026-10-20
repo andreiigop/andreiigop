@@ -3,30 +3,49 @@
 
   <br>
 
-  <a href="https://andreiigop.github.io/inventarise/"><img src="https://img.shields.io/badge/PORTFOLIO-Visit%20my%20work-91eaff?style=for-the-badge&labelColor=111a30" alt="Visit my portfolio"></a>
-  <a href="mailto:lloydgarcia0923320623@gmail.com"><img src="https://img.shields.io/badge/CONTACT-Let's%20connect-c2a8ff?style=for-the-badge&labelColor=111a30" alt="Contact me"></a>
+  <a href="https://andreiigop.github.io/inventarise/"><img src="https://img.shields.io/badge/PORTFOLIO-Explore%20my%20work-91eaff?style=for-the-badge&labelColor=111a30" alt="Explore my portfolio"></a>
+  <a href="mailto:lloydgarcia0923320623@gmail.com?subject=Project%20inquiry"><img src="https://img.shields.io/badge/PROJECT%20INQUIRY-Let's%20talk-c2a8ff?style=for-the-badge&labelColor=111a30" alt="Send a project inquiry"></a>
 
   <br><br>
 
-  <samp>COMPUTER ENGINEERING · MOBILE DEVELOPMENT · PRODUCT THINKING</samp>
+  <samp>MOBILE APPS · RESPONSIVE WEB · WORKFLOW TOOLS</samp>
 </div>
 
 ---
 
-## Hi, I’m Lloyd 👋
+## I build useful digital experiences for real-world needs.
 
-I’m a Computer Engineering student who enjoys bringing **software, systems,
-and thoughtful interface design** together. I like turning practical problems
-into useful tools—and learning from every part of the process, from the
-architecture underneath to the small details people interact with.
+I’m Lloyd Andrei Garcia, a Computer Engineering student focused on **Flutter
+mobile apps, responsive websites, and practical business tools**. I care about
+making software clear to use, dependable, and grounded in the problem it is
+meant to solve.
 
-### ✦ A few things I enjoy building
+If you have an idea, I can help shape it into a considered interface and a
+working implementation—from the first user flow to the details that make it
+feel polished.
 
-| Project | What it does | Take a look |
-| --- | --- | --- |
-| **IskolarHub** | A Flutter app that helps students explore scholarship opportunities and organize their application journey. | [Explore the project](https://github.com/andreiigop/Iskolarhub) |
-| **InventaRise** | An inventory and operations management project focused on stock, deliveries, suppliers, and reporting. | [See the portfolio](https://andreiigop.github.io/inventarise/#projects) |
-| **My portfolio** | A little home for my projects, engineering interests, and interactive app previews. | [Visit the site](https://andreiigop.github.io/inventarise/) |
+### How I can help
+
+- **Mobile apps:** Flutter interfaces and features designed around real user flows.
+- **Web experiences:** responsive portfolio, product, and landing pages.
+- **Workflow tools:** clear dashboards and interfaces for everyday operations.
+
+### Featured work
+
+- **[IskolarHub](https://github.com/andreiigop/Iskolarhub)** — A Flutter app
+  concept for helping students discover scholarship opportunities and keep
+  their application journey organized.
+- **[InventaRise](https://andreiigop.github.io/inventarise/#projects)** — An
+  inventory and operations dashboard showcase for stock, deliveries, and
+  reporting workflows. Demo figures are sample data.
+- **[Portfolio](https://andreiigop.github.io/inventarise/)** — Interactive
+  project previews and more of my work.
+
+### What you can expect
+
+- A focus on your users and the goal behind the project.
+- Clear communication and thoughtful, practical design choices.
+- Careful implementation, testing, and refinement.
 
 ### ⚙️ My current toolkit
 
@@ -40,15 +59,10 @@ architecture underneath to the small details people interact with.
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222" alt="JavaScript">
 </p>
 
-### 🌱 How I like to work
-
-- Start with the real user problem.
-- Make the experience clear, not just functional.
-- Think about reliability, data, and the edge cases.
-- Keep learning, testing, and improving.
-
 ---
 
 <div align="center">
-  <sub>Thanks for stopping by. Have an idea to build? <a href="mailto:lloydgarcia0923320623@gmail.com">Let’s talk ↗</a></sub>
+  <h3>Have a project in mind?</h3>
+  <p>Send me the goal, who it is for, and what you need help with.</p>
+  <a href="mailto:lloydgarcia0923320623@gmail.com?subject=Project%20inquiry">Email me about your project ↗</a>
 </div>
